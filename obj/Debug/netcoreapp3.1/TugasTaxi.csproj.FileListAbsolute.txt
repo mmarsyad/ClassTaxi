@@ -1,0 +1,13 @@
+D:\3325_Kuliyahhwahh\Semester 2\PEMGROGRAMAN\Praktikum\3\Membuatobjek\TugasTaxi\TugasTaxi\bin\Debug\netcoreapp3.1\TugasTaxi.exe
+D:\3325_Kuliyahhwahh\Semester 2\PEMGROGRAMAN\Praktikum\3\Membuatobjek\TugasTaxi\TugasTaxi\bin\Debug\netcoreapp3.1\TugasTaxi.deps.json
+D:\3325_Kuliyahhwahh\Semester 2\PEMGROGRAMAN\Praktikum\3\Membuatobjek\TugasTaxi\TugasTaxi\bin\Debug\netcoreapp3.1\TugasTaxi.runtimeconfig.json
+D:\3325_Kuliyahhwahh\Semester 2\PEMGROGRAMAN\Praktikum\3\Membuatobjek\TugasTaxi\TugasTaxi\bin\Debug\netcoreapp3.1\TugasTaxi.runtimeconfig.dev.json
+D:\3325_Kuliyahhwahh\Semester 2\PEMGROGRAMAN\Praktikum\3\Membuatobjek\TugasTaxi\TugasTaxi\bin\Debug\netcoreapp3.1\TugasTaxi.dll
+D:\3325_Kuliyahhwahh\Semester 2\PEMGROGRAMAN\Praktikum\3\Membuatobjek\TugasTaxi\TugasTaxi\bin\Debug\netcoreapp3.1\TugasTaxi.pdb
+D:\3325_Kuliyahhwahh\Semester 2\PEMGROGRAMAN\Praktikum\3\Membuatobjek\TugasTaxi\TugasTaxi\obj\Debug\netcoreapp3.1\TugasTaxi.csprojAssemblyReference.cache
+D:\3325_Kuliyahhwahh\Semester 2\PEMGROGRAMAN\Praktikum\3\Membuatobjek\TugasTaxi\TugasTaxi\obj\Debug\netcoreapp3.1\TugasTaxi.AssemblyInfoInputs.cache
+D:\3325_Kuliyahhwahh\Semester 2\PEMGROGRAMAN\Praktikum\3\Membuatobjek\TugasTaxi\TugasTaxi\obj\Debug\netcoreapp3.1\TugasTaxi.AssemblyInfo.cs
+D:\3325_Kuliyahhwahh\Semester 2\PEMGROGRAMAN\Praktikum\3\Membuatobjek\TugasTaxi\TugasTaxi\obj\Debug\netcoreapp3.1\TugasTaxi.csproj.CoreCompileInputs.cache
+D:\3325_Kuliyahhwahh\Semester 2\PEMGROGRAMAN\Praktikum\3\Membuatobjek\TugasTaxi\TugasTaxi\obj\Debug\netcoreapp3.1\TugasTaxi.dll
+D:\3325_Kuliyahhwahh\Semester 2\PEMGROGRAMAN\Praktikum\3\Membuatobjek\TugasTaxi\TugasTaxi\obj\Debug\netcoreapp3.1\TugasTaxi.pdb
+D:\3325_Kuliyahhwahh\Semester 2\PEMGROGRAMAN\Praktikum\3\Membuatobjek\TugasTaxi\TugasTaxi\obj\Debug\netcoreapp3.1\TugasTaxi.genruntimeconfig.cache
